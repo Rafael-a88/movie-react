@@ -1,0 +1,30 @@
+.search{
+    z-index: 1;
+    margin: 50px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 20px;
+    width: 100vw;
+
+    h1{
+        text-align: center;
+        font-size: 50px;
+    }
+
+    input{
+        text-align: center;
+        font-size: 35px;
+        height: 60px;
+        border-radius: 50px;
+    }
+
+    
+}
+
+.ant-row{
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+}
